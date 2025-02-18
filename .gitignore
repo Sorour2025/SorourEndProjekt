@@ -1,0 +1,7 @@
+# Virtuelle Umgebung ignorieren
+.venv/
+
+# Große Dateien ignorieren
+*.dll
+*.pyd
+*.jar
